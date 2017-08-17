@@ -15,3 +15,6 @@ title: Creating a Jekyll Now blog
     However, there were a few aspects of my previous site that I didn't have the skills to recreate.  The most important item on that list was a blog.  I did a bit of research and learned that making a blog from scratch would be a larger and more complex project than I wanted to dive into.  So I started looking for API's, and eventually I found Jekyll Now.
 </p>
 
+<!-- this is a Branden test! remove it later! -->
+<img src="../../resources/img/face.jpg">
+    

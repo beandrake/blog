@@ -22,7 +22,7 @@ title_separator          : "-"
 subtitle                 : "Thoughts about people, technology, and life" # site tagline that appears below site title in masthead
 name                     : &name "Branden Bean Drake" # &name is a YAML anchor which can be *referenced later
 description              : &description "Human thoughts from posthuman times"
-url                      : "beanTIMEdrake.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "beandrakeABC.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/blogging" # the subpath of your site, e.g. "/blog"
 repository               : "beandrake/blog" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -32,7 +32,7 @@ breadcrumbs              : # true, false (default)
 words_per_minute         : 200
 enable_copy_code_button  : true # true, false (default)
 copyright                : "Branden Bean Drake" # "copyright" name, defaults to site.title
-copyright_url            : "beandrake.com" # "copyright" URL, defaults to site.url
+copyright_url            : "beandrakeXYZ.com" # "copyright" URL, defaults to site.url
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:

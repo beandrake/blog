@@ -22,8 +22,8 @@ title_separator          : "-"
 subtitle                 : "Thoughts about people, technology, and life" # site tagline that appears below site title in masthead
 name                     : &name "Branden Bean Drake" # &name is a YAML anchor which can be *referenced later
 description              : &description "Human thoughts from posthuman times"
-url                      : "beandrake.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/blog" # the subpath of your site, e.g. "/blog"
+url                      : "beanTIMEdrake.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/blogging" # the subpath of your site, e.g. "/blog"
 repository               : "beandrake/blog" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"

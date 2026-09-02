@@ -17,21 +17,21 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 direction                : # "ltr" (default), "rtl" # set the direction of the page
-title                    : "Site Title"
+title                    : "Notes from the Journey"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+subtitle                 : "Thoughts about people, technology, and life" # site tagline that appears below site title in masthead
+name                     : &name "Branden Bean Drake" # &name is a YAML anchor which can be *referenced later
+description              : &description "Human thoughts from posthuman times"
+url                      : "beandrake.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/blog" # the subpath of your site, e.g. "/blog"
+repository               : "beandrake/blog" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
-enable_copy_code_button  : # true, false (default)
-copyright                : # "copyright" name, defaults to site.title
+enable_copy_code_button  : true # true, false (default)
+copyright                : "Branden Bean Drake" # "copyright" name, defaults to site.title
 copyright_url            : # "copyright" URL, defaults to site.url
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
@@ -114,10 +114,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  name             : *name # "Your Name"
+  avatar           : "/assets/images/BrandenBeanDrake.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Finding purpose in connection and understanding"
+  location         : "Greater Seattle Area"
   email            :
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
@@ -126,7 +126,7 @@ author:
       # url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://beandrake.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-square-x-twitter"
       # url: "https://twitter.com/"
@@ -135,7 +135,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/beandrake"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -152,7 +152,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/beandrake"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -162,7 +162,7 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
-  since: "2013"
+  since: "1983"
 
 
 # Reading Files
@@ -327,8 +327,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false #true
       comments: # true
-      share: true
+      share: false #true # is this "SHARE ON" beneath posts?
       related: true
 

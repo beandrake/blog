@@ -116,7 +116,12 @@ analytics:
 author:
   name             : *name # "Your Name"
   avatar           : "/assets/images/BrandenBeanDrake.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Welcome to my blog! \nI'm a lifelong learner who loves to work with people and technology, and this blog is a place where I write about what I've learned along the way. \nThank you for visiting!"
+  bio              : >
+    Welcome to my blog!
+    
+    I'm a lifelong learner who loves to engage with people and technology, and this blog is a place where I write about what I've learned along the way.
+    
+    Thank you for visiting!
   location         : "Greater Seattle Area"
   email            :
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
@@ -126,7 +131,7 @@ author:
       # url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      #url: "" # seems to append whatever you write here after the site.url
+      url: "https://beandrake.com" # seems to append whatever you write here after the site.url
     - label: "Twitter"
       icon: "fab fa-fw fa-square-x-twitter"
       # url: "https://twitter.com/"

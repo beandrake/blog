@@ -116,7 +116,7 @@ analytics:
 author:
   name             : *name # "Your Name"
   avatar           : "/assets/images/BrandenBeanDrake.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : >
+  bio              : |-
     Welcome to my blog!
     
     I'm a lifelong learner who loves to engage with people and technology, and this blog is a place where I write about what I've learned along the way.

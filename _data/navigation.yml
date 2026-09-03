@@ -2,6 +2,8 @@
 main:
   - title: "beandrake.com"
     url: https://beandrake.com
+  - title: "Post by Tag"
+    url: /tags/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

@@ -13,7 +13,7 @@ excerpt: "It me."
 #    image_path: /assets/images/mm-layout-archive.png
 #    alt: "archive layout example"
 #last_modified_at: 2022-05-27T11:59:26-04:00
-toc: true
+#toc: true
 ---
 
 Hi, I'm Branden Bean Drake. Like you, I contain multitudes.

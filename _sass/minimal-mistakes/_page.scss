@@ -109,7 +109,9 @@ body {
   p,
   li,
   dl {
-    font-size: 1em;
+    // BEAN: Before, text size ranged from 16 to 22 depending on viewport size.
+	//       Change: Let's make it always be 16.
+	font-size: 16px; //1em;
   }
 
   /* paragraph indents */

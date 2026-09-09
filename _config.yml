@@ -339,6 +339,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: false #true
+      show_date: false # at bottom of post shows date from filename
       comments: # true
       share: false #true # "SHARE ON" beneath posts?
       related: true

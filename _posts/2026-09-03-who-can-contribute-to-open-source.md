@@ -1,5 +1,5 @@
 ---
-title:  "Who can Contribute to Open Source?"
+title:  "Who Can Contribute to Open Source?"
 #categories: 
 #  - tests
 tags:

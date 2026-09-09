@@ -1,6 +1,5 @@
 ---
 title:  "Who Can Contribute to Open Source?"
-excerpt_separator: "<!--more-->"
 #categories: 
 #  - tests
 tags:
@@ -9,12 +8,13 @@ tags:
   - GitHub
 ---
 
-Whenever I've worked on a coding project with a group, whether in an academic setting or a professional one, access to the group's code has always been restricted to those within the group. The group sets up a code repository for the project, and only members of the group are given access to it.
+If you want to contribute to a software project, you need to join the team that manages that project. Or at least, that's the impression I was under for a long time. It turns out that's not always the case.
 
-I had heard that open source projects did things a bit differently. Instead of keeping their code private, open source teams publish their code online. This means the public has read access, enabling anyone to generate a copy of that code and use it to make their own software.
+In reflection, I can see why I thought this. Whenever I had worked on a coding project with a group, whether in an academic setting or a professional one, access to the group's code had always been restricted to those within the group. The group set up a code repository for the project, and only members of the group were given access to it.
 
-<!--more-->
-But for years I didn't hear anything about the other difference that many open source projects share: _anyone can contribute to them_. While every open source project works differently, there are many projects where you don't need to be a member of the project group to contribute code. Here's a brief overview of how the process works:
+I had heard that open source projects did things a bit differently. Instead of keeping their code private, open source teams published their code online. This meant the public had read access, enabling anyone to generate a copy of that code and use it to make their own software.
+
+But for a long time, I never heard anything about the other major difference that many open source projects share: _anyone can contribute to them_. While every open source project works differently, there are many projects where you don't need to be a member of the project group to contribute code. Here's a brief overview of how the process works:
 
 1. You create a [fork](https://docs.github.com/en/pull-requests/get-started/about-forks), which is a copy of the open source project you're interested in.
 2. You make your code changes in the fork.

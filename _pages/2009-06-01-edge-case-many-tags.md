@@ -1,5 +1,6 @@
 ---
 title: "Edge Case: Many Tags"
+permalink: /draft/
 categories:
   - Edge Case
 tags:

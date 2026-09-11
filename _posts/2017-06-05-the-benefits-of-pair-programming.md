@@ -15,8 +15,7 @@ One of the most interesting aspects of Extreme Programming we adopted was pair p
 
 To some this might seem like a waste of resources. Why use two programmers to accomplish a single task? Couldn't they get twice as much done separately? In theory that's certainly possible, but based on my experience I think that pair programming offers some key advantages.
 
-![image-center]({{ "/assets/images/Swiss_cheese_model.png" | relative_url }}){: .align-center}
-{: style="text-align:center"}<p style="line-height: 2;"><sup>A visual representation of the Swiss Cheese Model, with three slices of cheese with different holes, with lines passing through holes in the cheese or being blocked where there is no hole.</sup></p>
+![Three parallel slices of cheese with different holes, with lines passing through holes in the cheese or being blocked where there is no hole.]({{ "/assets/images/Swiss_cheese_model.png" | relative_url }}){: .align-center}
 
 ![image-center]({{ "/assets/images/Swiss_cheese_model.png" | relative_url }}){: .align-center}
 {: style="text-align:center"}

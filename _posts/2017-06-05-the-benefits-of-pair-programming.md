@@ -17,10 +17,6 @@ To some this might seem like a waste of resources. Why use two programmers to ac
 
 ![Three parallel slices of cheese with different holes, with lines passing through holes in the cheese or being blocked where there is no hole.]({{ "/assets/images/Swiss_cheese_model.png" | relative_url }}){: .align-center}
 
-![image-center]({{ "/assets/images/Swiss_cheese_model.png" | relative_url }}){: .align-center}
-{: style="text-align:center"}
-<p style="line-height: 2;"><sup>A visual representation of the Swiss Cheese Model, with three slices of cheese with different holes, with lines passing through holes in the cheese or being blocked where there is no hole.</sup></p>
-
 To understand why, let's look at the [Swiss Cheese Model of Accident Causation](https://en.wikipedia.org/wiki/Swiss_cheese_model). This model conceptualizes systems as multiple slices of Swiss cheese, where each hole is a possible point of failure; if a single linear hazard can pass through every layer without being blocked, an incident occurs. By aligning multiple systems with differing points of failure, the likelihood of a failure falling through the entire stack of cheese is reduced.
 
 Leveraging this model, we can think of every programmer as a slice of cheese. Because we are human and capable of making mistakes, each slice will have holes. And by collaborating with a different slice of cheese, we can mitigate the possibility of errors. If I make a mistake, my programming partner has a good chance of catching it. These mistakes can range from the simple (using the wrong variable in an equation) to the major (programming unnecessary systems due to a misunderstanding). While these errors could certainly be discovered during code reviews, why wait that long? Pair programming nips these issues in the bud, minimizing the time spent exacerbating problems and subsequently correcting them.

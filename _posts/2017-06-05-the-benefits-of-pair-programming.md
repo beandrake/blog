@@ -15,12 +15,6 @@ One of the most interesting aspects of Extreme Programming we adopted was pair p
 
 To some this might seem like a waste of resources. Why use two programmers to accomplish a single task? Couldn't they get twice as much done separately? In theory that's certainly possible, but based on my experience I think that pair programming offers some key advantages.
 
-![image-center](/assets/images/Swiss_cheese_model.svg){: .align-center}
-![image-center](/assets/images/Swiss_cheese_model.jpg){: .align-center}
-![image-center](/assets/images/Swiss_cheese_model.png){: .align-center}
-Cake
-![image-center]({{ "/assets/images/Swiss_cheese_model.svg" | relative_url }}){: .align-center}
-![image-center]({{ "/assets/images/Swiss_cheese_model.jpg" | relative_url }}){: .align-center}
 ![image-center]({{ "/assets/images/Swiss_cheese_model.png" | relative_url }}){: .align-center}
 
 To understand why, let's look at the [Swiss Cheese Model of Accident Causation](https://en.wikipedia.org/wiki/Swiss_cheese_model). This model conceptualizes systems as multiple slices of Swiss cheese, where each hole is a possible point of failure; if a single linear hazard can pass through every layer without being blocked, an incident occurs. By aligning multiple systems with differing points of failure, the likelihood of a failure falling through the entire stack of cheese is reduced.

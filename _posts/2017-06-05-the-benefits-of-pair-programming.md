@@ -16,11 +16,11 @@ One of the most interesting aspects of Extreme Programming we adopted was pair p
 To some this might seem like a waste of resources. Why use two programmers to accomplish a single task? Couldn't they get twice as much done separately? In theory that's certainly possible, but based on my experience I think that pair programming offers some key advantages.
 
 ![image-center]({{ "/assets/images/Swiss_cheese_model.png" | relative_url }}){: .align-center}
-{: style="text-align:center"}<p style "line-height: 2;"><sup>A visual representation of the Swiss Cheese Model, with three slices of cheese with different holes, with lines passing through holes in the cheese or being blocked where there is no hole.</sup></p>
+{: style="text-align:center"}<p style="line-height: 2;"><sup>A visual representation of the Swiss Cheese Model, with three slices of cheese with different holes, with lines passing through holes in the cheese or being blocked where there is no hole.</sup></p>
 
 ![image-center]({{ "/assets/images/Swiss_cheese_model.png" | relative_url }}){: .align-center}
 {: style="text-align:center"}
-<p style "line-height: 2;"><sup>A visual representation of the Swiss Cheese Model, with three slices of cheese with different holes, with lines passing through holes in the cheese or being blocked where there is no hole.</sup></p>
+<p style="line-height: 2;"><sup>A visual representation of the Swiss Cheese Model, with three slices of cheese with different holes, with lines passing through holes in the cheese or being blocked where there is no hole.</sup></p>
 
 To understand why, let's look at the [Swiss Cheese Model of Accident Causation](https://en.wikipedia.org/wiki/Swiss_cheese_model). This model conceptualizes systems as multiple slices of Swiss cheese, where each hole is a possible point of failure; if a single linear hazard can pass through every layer without being blocked, an incident occurs. By aligning multiple systems with differing points of failure, the likelihood of a failure falling through the entire stack of cheese is reduced.
 

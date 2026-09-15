@@ -39,7 +39,7 @@ These arguments were always incredibly fruitful. I would even go so far as to sa
 
 4. **We listened as much as we talked.**
 
-   It's really a corollary of the above, but if you're not truly listening to someone else's ideas, you rob yourself of the opportunity to learn anything. No matter how right I thought I was, when my partner talked, I _wanted_ her to convince me — and she often did.
+   It's really a corollary of the above, but if you're not truly listening to someone else's ideas, you rob yourself of the opportunity to learn anything. No matter how right I thought I was, when my partner talked, I listened in the hope that she would reveal something clever that I had missed — and she often did.
 
 5. **We both had very different perspectives.**
 

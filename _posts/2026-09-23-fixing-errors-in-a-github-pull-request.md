@@ -1,8 +1,5 @@
 ---
 title: "Fixing Errors in a GitHub Pull Request"
-permalink: /draft/
-#categories:
-#  - Edge Case
 tags:
   - pull request 
   - GitHub Actions 
